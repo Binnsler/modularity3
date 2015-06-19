@@ -1,1 +1,68 @@
-/* ADD YOUR STYLES HERE */
+/* REUSED CODE */
+
+.style-row{
+	line-height: 5vh;
+	text-align: right;
+}
+
+.form-row{
+	padding-right: 40%;
+}
+
+/*SIGNUP FORM*/
+
+.form-label{
+	font-size: .9em;
+	padding: 0 1% 0 3%;
+}
+
+.form-input{
+	width: 70%;
+	margin-left: 1%;
+	padding: 1%;
+	border-radius: 5px;
+	border: 1px solid #cccccc;
+}
+
+.city-input{
+	width: 43.5%;
+}
+
+.state-input{
+	width: 10%;
+}
+
+.checkbox-row{
+	padding-right: 58.75%;
+}
+
+.the-checkbox{
+	margin-right: 2%;
+	font-size: .9em;
+}
+
+.submit-btn{
+	background-color: #ccc;
+	border-style: none;
+	padding: 1vh 19%;
+	margin-left: 16%;
+	border-radius: 5px;
+}
+
+/*FORM VALIDATION*/
+
+.first-name{
+	padding-right: 17%;
+}
+
+.last-name{
+
+}
+
+.email-row{
+	padding-right: 20%;
+}
+
+.email-input{
+	width: 52%;
+}
